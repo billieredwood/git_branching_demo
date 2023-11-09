@@ -3,6 +3,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("We're writing this on develop!");
         System.out.println("Let's edit line 6");
+        System.out.println("Editing line 6 on a different branch");
+
     }
 
 }
